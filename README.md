@@ -1,6 +1,6 @@
 # Collapsing Bridge Environment for Safe Reinforcement Learning
 
-This repository contains the implementation of a customizable grid-based environment and associated agents for safe reinforcement learning (SafeRL) research. The environment introduces **action-dependent dynamics**, **irreversible transitions**, and **partial observability**, making it suitable for evaluating algorithms under safety-critical and non-stationary conditions.
+This repository contains the implementation of a customizable grid-based environment and associated agents for safe reinforcement learning (SafeRL) research. The environment introduces **action-dependent dynamics**, **irreversible transitions**, and **partial observability**, which makes it suitable for evaluating algorithms under safety-critical and non-stationary conditions.
 
 ## Features
 
@@ -17,7 +17,7 @@ This repository contains the implementation of a customizable grid-based environ
 
 If you use this environment or the agents in your research, please cite:
 
-> Florin Leon, *Action Masking Methods for Safe Reinforcement Learning in a Non-Stationary Configurable Environment*, 2025.
+> Florin Leon, *Action Masking Methods for Safe Reinforcement Learning in a Non-Stationary Configurable Environment*, Proceedings of the 29th International Conference on System Theory, Control and Computing (ICSTCC 2025), Cluj-Napoca, Romania, 2025.
 
 ## License
 
